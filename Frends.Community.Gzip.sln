@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frends.Community.Gzip", "Frends.Community.Gzip\Frends.Community.Gzip.csproj", "{FC94210B-D6E0-4DC1-981F-A14C6F1EFDAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frends.Community.Gzip.Tests", "Frends.Community.Gzip.Tests\Frends.Community.Gzip.Tests.csproj", "{3A3B9843-7C0A-4C4B-846B-FE6239922B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC94210B-D6E0-4DC1-981F-A14C6F1EFDAB}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{FC94210B-D6E0-4DC1-981F-A14C6F1EFDAB}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{FC94210B-D6E0-4DC1-981F-A14C6F1EFDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC94210B-D6E0-4DC1-981F-A14C6F1EFDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3B9843-7C0A-4C4B-846B-FE6239922B22}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3B9843-7C0A-4C4B-846B-FE6239922B22}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{3A3B9843-7C0A-4C4B-846B-FE6239922B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3B9843-7C0A-4C4B-846B-FE6239922B22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B58C9C1-CA72-42FD-AE68-28E1A9AD0278}
+	EndGlobalSection
+EndGlobal
