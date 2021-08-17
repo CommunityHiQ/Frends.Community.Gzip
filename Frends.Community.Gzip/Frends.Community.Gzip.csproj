@@ -3,7 +3,14 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net471</TargetFrameworks>
     <Version>1.0.1</Version>
-    <PackageReleaseNotes>Changed  TargetFramework to multi-target</PackageReleaseNotes>
+	<PackageReleaseNotes>Changed  TargetFramework to multi-target</PackageReleaseNotes>
+	<authors>HiQ Finland</authors>
+	<copyright>HiQ Finland</copyright>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/CommunityHiQ/Frends.Community.Gzip</PackageProjectUrl>
+	<IncludeSource>true</IncludeSource>
+	<PackageTags>Frends</PackageTags>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
