@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net471</TargetFrameworks>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
 	<PackageReleaseNotes>Changed  TargetFramework to multi-target</PackageReleaseNotes>
 	<authors>HiQ Finland</authors>
 	<copyright>HiQ Finland</copyright>
