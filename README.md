@@ -1,4 +1,6 @@
 # Frends.Community.Zip
+
+[![Actions Status](https://github.com/CommunityHiQ/Frends.Community.Gzip/workflows/PackAndPushAfterMerge/badge.svg)](https://github.com/CommunityHiQ/Frends.Community.Gzip/actions) ![MyGet](https://img.shields.io/myget/frends-community/v/Frends.Community.Gzip) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 FRENDS community task for creating gzip archive
 
 - [Installing](#installing)
