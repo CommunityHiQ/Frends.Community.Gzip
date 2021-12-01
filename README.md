@@ -1,7 +1,8 @@
 # Frends.Community.Zip
 
+FRENDS community task for creating gzip archive.
+
 [![Actions Status](https://github.com/CommunityHiQ/Frends.Community.Gzip/workflows/PackAndPushAfterMerge/badge.svg)](https://github.com/CommunityHiQ/Frends.Community.Gzip/actions) ![MyGet](https://img.shields.io/myget/frends-community/v/Frends.Community.Gzip) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-FRENDS community task for creating gzip archive
 
 - [Installing](#installing)
 - [Tasks](#tasks)
@@ -104,7 +105,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 # Change Log
 
-| Version             | Changes                 |
-| ---------------------| ---------------------|
-| 1.0.0 | Initial Frends.Community version |
-
+| Version              | Changes                                  |
+| ---------------------| ---------------------                    |
+| 1.0.0                | Initial Frends.Community version.        |
+| 1.0.1                | Added CI and fixed unit tests for Linux. |
+| 1.0.2                | Updated README.                          |
