@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net471</TargetFrameworks>
-    <Version>1.0.2</Version>
+    <TargetFrameworks>netstandard2.0;net6.0;net8.0</TargetFrameworks>
+    <Version>1.0.3</Version>
 	<PackageReleaseNotes>Changed  TargetFramework to multi-target</PackageReleaseNotes>
 	<authors>HiQ Finland</authors>
 	<copyright>HiQ Finland</copyright>
